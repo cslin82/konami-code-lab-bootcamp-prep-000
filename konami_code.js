@@ -16,8 +16,8 @@ document.body.onkeydown = function(event){
     console.log(index);
 
     if (index === code.length) {
-      index = 0;
       alert('correct');
+      index = 0;
     } 
 
   } else {
