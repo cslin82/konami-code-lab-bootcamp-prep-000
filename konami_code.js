@@ -23,7 +23,7 @@ document.body.onkeydown = function(event){
   } else {
     index = 0;
   }
-
+alert(';aljsk')
 };
 
 
