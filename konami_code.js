@@ -16,7 +16,7 @@ document.body.onkeydown = function(event){
     console.log(index);
 
     if (index === code.length) {
-      alert('correct');
+      alert();
       index = 0;
     } 
 
