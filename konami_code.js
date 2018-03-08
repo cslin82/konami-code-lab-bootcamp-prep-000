@@ -16,15 +16,13 @@ document.body.onkeydown = function(event){
     console.log(index);
 
     if (index === code.length) {
-      alert('correct');
       index = 0;
+      alert();
     } 
 
   } else {
     index = 0;
   }
-
 };
-
 
 }
